@@ -1,4 +1,5 @@
 # Contributors
+[Smriti]
 -[Maxi Candia] (https://github.com/MaxiCandiaJara)
 - [Abhishek Maurya](https://github.com/abhishek-maurya576)
 -[Lovnish Verma]-(https://github.com/lovnishverma)
